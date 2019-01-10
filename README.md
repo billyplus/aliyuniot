@@ -1,6 +1,6 @@
-# 阿里云物联网的golang版sdk
+# aliyun iot device sdk for golang
 
-参考aliyun官方的js版`aliyun-iot-device-sdk`
+write this for personal use after consulted [aliyun-iot-device-sdk](https://help.aliyun.com/document_detail/96622.html)
 
 可以用于开发私人网关，架设在路由器中运行，支持更新和发布属性。
 
