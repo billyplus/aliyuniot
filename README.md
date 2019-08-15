@@ -20,7 +20,7 @@ write this for personal use after consulted [aliyun-iot-device-sdk](https://help
     logger.Log("msg", "subscrib property message.")
 ```
 
-更多的用例参考sample文件夹
+更多的用例参考sample文件夹, 有需求可以提`Issues`
 
 ## Todo
 
